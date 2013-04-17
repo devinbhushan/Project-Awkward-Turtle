@@ -1,0 +1,13 @@
+[08-Apr-2012 13:36:54] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 7
+[08-Apr-2012 13:40:15] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 7
+[08-Apr-2012 13:40:16] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 7
+[08-Apr-2012 13:40:16] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 7
+[08-Apr-2012 13:40:29] PHP Parse error:  syntax error, unexpected '>' in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 12
+[08-Apr-2012 13:40:44] PHP Parse error:  syntax error, unexpected '>' in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 13
+[08-Apr-2012 13:42:41] PHP Parse error:  syntax error, unexpected '<' in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 17
+[08-Apr-2012 13:42:43] PHP Parse error:  syntax error, unexpected '<' in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 17
+[08-Apr-2012 13:42:48] PHP Parse error:  syntax error, unexpected '<' in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 17
+[08-Apr-2012 13:44:00] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 47
+[08-Apr-2012 13:44:24] PHP Fatal error:  Cannot redeclare viewMessage() (previously declared in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php:47) in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 121
+[08-Apr-2012 13:45:04] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 148
+[08-Apr-2012 13:45:23] PHP Parse error:  syntax error, unexpected T_ELSE in /home/cs/awkwardt/public_html/FrontEnd/Subpages/messagingpages/inbox.php on line 167

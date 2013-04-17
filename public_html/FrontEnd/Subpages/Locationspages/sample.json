@@ -1,0 +1,49 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7862590,
+               "lng" : -117.8531270
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5be9a13a28635cf8fd2ef3c62c24d51277a4ba58",
+         "name" : "Kimmies Coffee Cup",
+         "rating" : 3.30,
+         "reference" : "CnRpAAAANKLoOHJ1STFaFavIPjm2bpMDneGTv0AXfixyl-koF7KSK-lQSldk3c01RFJu9Gf62zXnRScte-dkPCBU8KuxCo7AMctfuaIhNkPE8RKENF9HeMlkuEg-Scp97--1VWJvjpNQjc6xRvdXsbf7V8NrSRIQnXjZBKbrSeSg2sTwBosKghoUEFlNDIN5cnVbn5n7aNtwycord-E",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "190 S Glassell St # B, Orange"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7879750,
+               "lng" : -117.8538530
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f78df3653f6c422b72988535f402869e49a5a8cf",
+         "name" : "Pet Stains? Coffee Spilled? We can take care of it. Your Local Carpet & Upholste",
+         "reference" : "CrQBqAAAAJDLQuvYBBg3E76GgnbWdOgZgZxCZ_qT7VoQbyAloPkFw1FmFj71Kf2PEV_1h6dvapTixz_5yVM7XW1H8c60UdsKTDi2PZGj58Q1DxM2iOSe9zxW3GU3EHalGqT1CATo5L1J6KkudY4DxPrPVWNgAWeCrhY5aBE-TN5ssRNGOZQ7cv7LiX04pBu0omgkdr02xB6o3-OwkyU5nzKoIBG10kKwDnEVMbeGYCDvUR8Ob2cgEhB3SlKT77eXjMPSL2fZJbl3GhRRVsdKIhFnGwJ5nor6FKyNFHO8TQ",
+         "types" : [ "establishment" ],
+         "vicinity" : "117 West Chapman Avenue, Orange"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7881430,
+               "lng" : -117.8526960
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2fdf349b8621786782995e556ebea821bb622cba",
+         "name" : "Diedrich Coffee",
+         "reference" : "CnRlAAAAf5IhvSye_maXsU0SyAVX-Sfun_gOTZaBvj8MSIAbUck1TvzKOC7-CV54wCnZAd5e5gaI8otRWs-DIae_GCDzwPKaUaLG0ToinmxS52XW0MF37vUW4TfNXuwCt6U7oVXEqL2q5igRsaZGU2308ffVWRIQ5cBEdIB_0Jls9XZLEBicrRoUU76ph8nTT-yNaSuNCAKnuD2n9cE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "44 Plaza Square, Orange"
+      }
+   ],
+   "status" : "OK"
+}

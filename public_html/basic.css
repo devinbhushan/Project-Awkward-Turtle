@@ -1,0 +1,220 @@
+@import "bootstrap.css";
+@import "bootstrap.min.css";
+body{
+	background-color: #bcee68;
+}
+body a {
+color:#4a4344;
+}
+
+
+.logininput{
+  position:relative;
+  width:20%; 
+  float:right;
+  text-align:center;
+  font-family: "Arial", Arial, sans-serif; 
+  font-weight:bold; 
+  font-size:13px;
+  z-index:100;
+}
+.otherdiv{
+  position:relative;
+  width:74%;
+  float:left;
+  margin-left:50px;
+  margin-top:50px;
+}
+.logindiv{
+    width:1175px;
+    font-family: "Arial", Arial, sans-serif; 
+  font-weight:bold; 
+  font-size:13px;
+}
+
+body a:visited {
+color:#4a4344;
+text-shadow:1px 1px 1px #cecece;
+}
+
+.breadcrumb a:visited {
+  color:#c2c2c2;
+}
+.breadcrumb a:hover {
+   text-decoration:none;
+}
+
+.login{
+  margin-top:3px;
+}
+
+.logo{
+  margin-bottom:5px;
+}
+
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small {
+  font-weight: normal;
+  color: #999999;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: bold;
+  color: #333333;
+  text-rendering: optimizelegibility;
+}
+
+.bigassdiv{
+  width:975px;
+    font-family: "Arial", Arial, sans-serif; 
+  font-weight:bold; 
+  font-size:13px;
+}
+
+.navbartop{
+  position
+}
+
+.secondary{
+  position:fixed;
+  float:left;
+  top:45px;
+  width:13%;
+  font-family: "Arial", Arial, sans-serif; 
+  font-weight:bold; 
+  font-size:13px;
+  z-index:100;
+}
+.secondary a:hover{
+ /* width:105px; Doesn't translate to different OS' well*/
+  font-size:115%;
+}
+
+.loadingturtle{
+
+}
+
+.signup{
+  float:right;
+  position:relative;
+  top:45px;
+  width:78%;
+}
+.signup-top{
+  float:right;
+  position:relative;
+  top:0px;
+  width:100%;
+}
+
+.bc{
+  float:right;
+  position:relative;
+  top:30px;
+  width:78%;
+}	
+.signup-body{
+  float:left;
+  position:relative;
+  width:100%;
+  padding-bottom:15px;
+}
+
+.signup-btn{
+  padding-top:20px;
+  position:relative;
+  float:left;
+  width:10%;
+  padding-left:25px;
+}
+h1 {
+  margin-left:200px;
+  font-size: 30px;
+  line-height: 36px;
+}
+h1 small {
+  font-size: 18px;
+}
+h2 {
+  font-size: 24px;
+  line-height: 36px;
+}
+h2 small {
+  font-size: 18px;
+}
+h3 {
+  line-height: 27px;
+  font-size: 18px;
+}
+h3 small {
+  font-size: 14px;
+}
+h4, h5, h6 {
+  line-height: 18px;
+}
+h4 {
+  font-size: 14px;
+}
+h4 small {
+  font-size: 12px;
+}
+h5 {
+  font-size: 12px;
+}
+h6 {
+  font-size: 11px;
+  color: #999999;
+  text-transform: uppercase;
+}
+.page-header {
+  padding-bottom: 17px;
+  margin: 18px 0;
+  border-bottom: 1px solid #eeeeee;
+}
+.page-header h1 {
+  line-height: 1;
+}
+ul, ol {
+  padding: 0;
+  margin: 0 0 9px 25px;
+}
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin-bottom: 0;
+}
+ul {
+  list-style: disc;
+}
+ol {
+  list-style: decimal;
+}
+li {
+  line-height: 34px;
+}
+ul.unstyled {
+  margin-left: 0;
+  list-style: none;
+}
+dl {
+  margin-bottom: 18px;
+}
+dt, dd {
+  line-height: 18px;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-left: 9px;
+}
